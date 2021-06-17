@@ -1,2 +1,2 @@
 # MySocialTesting
-Testing functions for the MySocial project
+Testing some functions for the MySocial project
